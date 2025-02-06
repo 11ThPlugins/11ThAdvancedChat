@@ -11,6 +11,7 @@
 **AdminChat: Join the moderation chat and see who joins or leaves by using + or -.**
 **Chat Locking: Lock the chat to prevent any unwanted messages or interactions.**
 
+![image](https://github.com/user-attachments/assets/17b80b1a-2107-41e6-8558-65681f2171ff)
 ![image](https://github.com/user-attachments/assets/67152ac5-c617-430f-96fb-52a199a06b14)
 ![image](https://github.com/user-attachments/assets/3f8b670c-984c-4a1f-84f4-33410ac68bc1)
 ![image](https://github.com/user-attachments/assets/facb09eb-899d-4e28-9bea-ce6f038ab275)
